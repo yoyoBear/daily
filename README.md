@@ -1,6 +1,6 @@
-# daily
+# Vue 每日一文
 
-> A Vue.js project
+> 一个Vue的进阶项目，效果仿每日一文
 
 ## Build Setup
 
